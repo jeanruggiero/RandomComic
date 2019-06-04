@@ -1,0 +1,11 @@
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/obj/Debug/netcoreapp2.2/RandomComic.csprojAssemblyReference.cache
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/obj/Debug/netcoreapp2.2/RandomComic.csproj.CoreCompileInputs.cache
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/obj/Debug/netcoreapp2.2/RandomComic.AssemblyInfoInputs.cache
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/obj/Debug/netcoreapp2.2/RandomComic.AssemblyInfo.cs
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/bin/Debug/netcoreapp2.2/RandomComic.deps.json
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/bin/Debug/netcoreapp2.2/RandomComic.runtimeconfig.json
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/bin/Debug/netcoreapp2.2/RandomComic.runtimeconfig.dev.json
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/bin/Debug/netcoreapp2.2/RandomComic.dll
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/bin/Debug/netcoreapp2.2/RandomComic.pdb
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/obj/Debug/netcoreapp2.2/RandomComic.dll
+/Users/jeanruggiero/Projects/RandomComic/RandomComic/obj/Debug/netcoreapp2.2/RandomComic.pdb
